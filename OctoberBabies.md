@@ -3,6 +3,7 @@ layout: default
 username: October Babies
 user_title: Kinect Stork Action!
 focus: "#projects"
+permalink: /OctoberBabies/
 ---
 <section id="projects">
 <div class="user-details">
