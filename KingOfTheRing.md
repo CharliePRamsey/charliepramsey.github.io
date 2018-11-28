@@ -7,7 +7,7 @@ permalink: /KingOfTheRing/
 ---
 <section id="projects">
 <div class="user-details">
-  <h1> Grandpa's Lost Legacy </h1>
+  <h1> King of the Ring </h1>
 </div>
 <div class="user-projects">
   <div class="images-right">
