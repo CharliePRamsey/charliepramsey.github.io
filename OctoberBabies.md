@@ -24,7 +24,7 @@ permalink: /OctoberBabies/
   </div>
   <div class="contents-right">
     <h3> My Contributions </h3>
-    <p>I contributed to the production, design, and programatic development of this game. While the art and soundtrack were out of my hands, I touched every other part of the pipeline from beginning to end. Some key features that I helped program or design are the scrolling landscape system, the bird's movement controls, and the global leaderboard using dreamlo.</p>
+    <p>I contributed to the production, design, and programmatic development of this game. While the art and soundtrack were out of my hands, I touched every other part of the pipeline from beginning to end. Some key features that I helped program or design are the scrolling landscape system, the bird's movement controls, and the global leaderboard using dreamlo.</p>
   </div>
 </div>
 <div class="user-projects">
