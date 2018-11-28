@@ -11,7 +11,7 @@ permalink: /ThroughTheStorm/
 </div>
 <div class="user-projects">
   <div class="images-right">
-    <img alt="GLLStone" src="{{ "/assets/img/GpaLostLegacy/GLLStone.jpg" | prepend: site.baseurl }}" />
+    <img alt="TTSLogo" src="{{ "/assets/img/ThroughTheStorm/ThroughTheStormLogo.png" | prepend: site.baseurl }}" />
   </div>
   <div class="contents">
     <h3> Overview </h3>
@@ -20,7 +20,7 @@ permalink: /ThroughTheStorm/
 </div>
 <div class="user-projects">
   <div class="images-left">
-    <img alt="GLLFly" src="{{ "/assets/img/GpaLostLegacy/GLLFireflies.jpg" | prepend: site.baseurl }}" />
+    <img alt="TTSNight" src="{{ "/assets/img/ThroughTheStorm/TTSNight.jpg" | prepend: site.baseurl }}" />
   </div>
   <div class="contents-right">
     <h3> My Contributions </h3>
@@ -29,7 +29,7 @@ permalink: /ThroughTheStorm/
 </div>
 <div class="user-projects">
   <div class="images-right">
-    <a href="https://www.youtube.com/watch?v=2w8GZA5T9YM"><img alt="GLLRuins" src="{{ "/assets/img/GpaLostLegacy/GLLRuins.jpg" | prepend: site.baseurl }}" /></a>
+    <a href="https://www.youtube.com/watch?v=2w8GZA5T9YM"><img alt="TTSTree" src="{{ "/assets/img/ThroughTheStorm/TTSTree.jpg" | prepend: site.baseurl }}" /></a>
   </div>
   <div class="contents">
     <h3> Challenges </h3>
