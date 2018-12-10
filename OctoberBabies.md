@@ -9,6 +9,12 @@ permalink: /OctoberBabies/
 <div class="user-details">
   <h1> October Babies </h1>
 </div>
+<div class="user-details">
+    <h3> Team & Assignment </h3>
+       <p>Project Duration: 1 Week</p>
+       <p align="left">Team: <a href="https://www.etc.cmu.edu/blog/author/anyingz/">Amber Zheng (Sound Designer & Producer)</a>, <a href="https://www.etc.cmu.edu/blog/author/yuiweit/">Yui Tan (Artist)</a>, <a href="https://www.etc.cmu.edu/blog/author/harank/">Ha Ran Kim (Artist)</a>, <a href="https://www.etc.cmu.edu/blog/author/yikaih/">Yikai Han (Programmer)</a>, Myself (Programmer)</p>
+       <p align="left">The goal of this assignment was to create a game that, above anything else, is fun. </p>
+</div>
 <div class="user-projects">
   <div class="images-right">
     <img alt="OBLogo" src="{{ "/assets/img/OctoberBabies/OctoberBabiesLogo.png" | prepend: site.baseurl }}" />

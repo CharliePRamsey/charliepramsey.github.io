@@ -9,6 +9,12 @@ permalink: /GrandpasLostLegacy/
 <div class="user-details">
   <h1> Grandpa's Lost Legacy </h1>
 </div>
+<div class="user-details">
+    <h3> Team & Assignment </h3>
+       <p>Project Duration: 2 Weeks</p>
+       <p align="left">Team: <a href="https://www.etc.cmu.edu/blog/author/linyaol/">Freya Li (Sound Designer)</a>, <a href="https://www.etc.cmu.edu/blog/author/yanyuton/">Wren Tong (Artist)</a>, <a href="https://www.etc.cmu.edu/blog/author/ruoxil/">Ruoxi Li (Artist)</a>, <a href="https://www.etc.cmu.edu/blog/author/ruochen2/">Charley Li (Programmer)</a>, Myself (Programmer & Producer)</p>
+       <p align="left">This assignment was to create an experience that is "naive-guest" friendly. That is to say, as accessible as possible. </p>
+</div>
 <div class="user-projects">
   <div class="images-right">
     <img alt="GLLStone" src="{{ "/assets/img/GpaLostLegacy/GLLStone.jpg" | prepend: site.baseurl }}" />

@@ -9,6 +9,11 @@ permalink: /KingOfTheRing/
 <div class="user-details">
   <h1> King of the Ring </h1>
 </div>
+<div class="user-details">
+    <h3> Team & Assignment </h3>
+       <p>Project Duration: 3 Weeks</p>
+       <p align="left">Team: <a href="https://www.etc.cmu.edu/blog/author/jackyhol/">Jacky Lee (Sound Designer & Co-Producer)</a>, <a href="https://www.etc.cmu.edu/blog/author/jongmib/">Jamie Bae (Artist)</a>, <a href="https://www.etc.cmu.edu/blog/author/harank/">Ha Ran Kim (Artist)</a>, <a href="https://www.etc.cmu.edu/blog/author/mingqit/">Ariel Tan (Programmer)</a>, Myself (Programmer & Co-Producer)</p>
+</div>
 <div class="user-projects">
   <div class="images-right">
     <img alt="KotRLogo" src="{{ "/assets/img/KingOfTheRing/KotRLogo.png" | prepend: site.baseurl }}" />

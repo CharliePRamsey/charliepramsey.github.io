@@ -9,6 +9,12 @@ permalink: /RuntimeError/
 <div class="user-details">
   <h1> Runtime Error </h1>
 </div>
+<div class="user-details">
+    <h3> Team & Assignment </h3>
+       <p>Project Duration: 2 Weeks</p>
+       <p align="left">Team: <a href="https://www.etc.cmu.edu/blog/author/yangchet/">Brian Teng (Sound Designer & Producer)</a>, <a href="http://www.wushengzhi.xyz/">Shengzhi Wu (Artist)</a>, <a href="https://www.etc.cmu.edu/blog/author/ksui/">Keran Sui (Artist)</a>, <a href="https://www.etc.cmu.edu/blog/author/zhiguol/">Zhiguo Lai (Programmer)</a>, Myself (Programmer)</p>
+       <p align="left">This assignment was to produce any experience in which you are helping a Character A reach their goal while thwarting Character B's attempts to stop them. </p>
+</div>
 <div class="user-projects">
   <div class="images-right">
     <img alt="RELogo" src="{{ "/assets/img/RuntimeError/RuntimeErrorLogo.png" | prepend: site.baseurl }}" />
