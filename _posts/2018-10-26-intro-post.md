@@ -2,7 +2,7 @@
 layout: "post"
 title: "When sequels flip the script, what makes some become beloved successes and others maligned dark spots of their franchises?"
 excerpt_separator: <!--more-->
-permalink: /GDBlog1/
+permalink: /saucysequels/
 ---
 <section id="projects">
 <div class="user-details">
