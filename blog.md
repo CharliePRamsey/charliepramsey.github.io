@@ -1,7 +1,7 @@
 ---
 layout: default
 username: Parker's Posts
-user_title: Soon to be better formatted musings (i hope)
+user_title: Soon to be better formatted musings
 focus: "#projects"
 permalink: /blog/
 ---
